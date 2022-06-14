@@ -6,8 +6,9 @@
 <h5>Interested in WebDev, family, sport and travel<h5/>
 Contact: 
  <br/>
-<a href='#'>📩 nik.bolshakov95@mail.ru<a/>
-<a href='#'✉ https://telegram.me/nikitaa_bolshakov</a>
+<a href='telegram.me/@nikitaa_bolshakov'>✉️ https://telegram.me/nikitaa_bolshakov</a>
+ <br/>
+<a href='mailto:nik.bolshakov95@mail.ru'>📩 nik.bolshakov95@mail.ru<a/>
  <br/>
  
 </div>
