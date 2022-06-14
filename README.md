@@ -6,7 +6,7 @@
 <h5>Interested in WebDev, family, sport and travel<h5/>
  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> 
  <br/>
- <a href='telegram.me/@nikitaa_bolshakov'>
+ <a href='https://telegram.me/nikitaa_bolshakov'>
   <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white"/>
 
 <a href='mailto:nik.bolshakov95@mail.ru'>
