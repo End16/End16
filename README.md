@@ -7,7 +7,7 @@
 Contact: 
  <br/>
 <a href='#'>📩 nik.bolshakov95@mail.ru<a/>
-<a href='https://telegram.me/nikitaa_bolshakov' target="_blank"><img src='/IMG/icons8-telegram-app-48.png'></img></a>
+<a href='#'✉ https://telegram.me/nikitaa_bolshakov</a>
  <br/>
  
 </div>
