@@ -4,11 +4,13 @@
 <div align="center">
 <h4>Nice to meet you<h4/>
 <h5>Interested in WebDev, family, sport and travel<h5/>
-Contact: 
+ <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> 
  <br/>
-<a href='telegram.me/@nikitaa_bolshakov'>✉️ https://telegram.me/nikitaa_bolshakov</a>
- <br/>
-<a href='mailto:nik.bolshakov95@mail.ru'>📩 nik.bolshakov95@mail.ru<a/>
+ <a href='telegram.me/@nikitaa_bolshakov'>
+  <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white"/>
+
+<a href='mailto:nik.bolshakov95@mail.ru'>
+ <img src="https://img.shields.io/badge/Email-blue?logo=E-mail&logoColor=red"/><a/>
  <br/>
  
 </div>
