@@ -31,7 +31,6 @@ Contact:
   <span>**DB:** PostgreSQL, Sequelize ORM</span></br>
   <span>**Other:** Git, GitHub, Visual Studio Code, Figma</span></br>
 
-  </br>
 <div align="center">
   <h2>My development plans:</h2>
   <a href='#'><img src='/IMG/icon-typescript.png'></img></a>
