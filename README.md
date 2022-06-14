@@ -7,6 +7,7 @@
 Contact: 
  <br/>
 <a href='#'>📩 nik.bolshakov95@mail.ru<a/>
+<a href='https://telegram.me/nikitaa_bolshakov' target="_blank"><img src='/IMG/icons8-telegram-app-48.png'></img></a>
  <br/>
  
 </div>
@@ -30,7 +31,6 @@ Contact:
   <span>**DB:** PostgreSQL, Sequelize ORM</span></br>
   <span>**Other:** Git, GitHub, Visual Studio Code, Figma</span></br>
 
-  </br>
   </br>
 <div align="center">
   <h2>My development plans:</h2>
