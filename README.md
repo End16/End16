@@ -30,8 +30,6 @@
   </br>
 
   <span>**Frontend:** React, Next, Redux (Thunk), JS, HTML5, CSS3, Sass, Bootstrap, Materialize </span></br>
-  <span>**Backend:** NodeJS, Express, Sessions, Bcrypt, Handlebars</span></br>
-  <span>**DB:** PostgreSQL, Sequelize ORM</span></br>
   <span>**Other:** Git, GitHub, Visual Studio Code, Figma</span></br>
 
 <div align="center">
