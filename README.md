@@ -30,7 +30,7 @@
   </br>
 
   <span>**Frontend:** React, Next, Redux (Thunk), JS, HTML5, CSS3, Sass, Bootstrap, Materialize </span></br>
-  <span>**Other:** Git, GitHub, Visual Studio Code, Figma</span></br>
+  <span>**Other:** Git, GitHub, GitLab, Visual Studio Code, Figma</span></br>
 
 <div align="center">
   <h2>My development plans:</h2>
